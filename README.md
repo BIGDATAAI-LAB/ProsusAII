@@ -1,8 +1,8 @@
 ---
 language: "en"
 tags:
-- financial sentiment analysis
-- sentiment analysis
+- financial-sentiment-analysis
+- sentiment-analysis
 widget:
 - text: "Stocks rallied and the British pound gained."
 ---
