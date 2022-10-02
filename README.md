@@ -21,6 +21,8 @@ Contact information
 
 Please contact Dogu Araci dogu.araci[at]prosus[dot]com and Zulkuf Genc zulkuf.genc[at]prosus[dot]com about any FinBERT related issues and questions.
 
+---
+
 FinBERT in Use (New!)
 
 We are delighted to hear the use of FinBERT at many other organisations. Please, let us know your use-case if you have FinBERT deployed and we add you to this list:
