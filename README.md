@@ -34,4 +34,4 @@ We are delighted to hear the use of FinBERT at many other organisations. Please,
 
 API Implementations
 
-- [Rapid API](https://rapidapi.com/financial-sentiment-financial-sentiment-default/api/finbert3/) 
+- [Multilingual Rapid API](https://rapidapi.com/financial-sentiment-financial-sentiment-default/api/finbert3/) 
